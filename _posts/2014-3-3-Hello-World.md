@@ -3,7 +3,8 @@ layout: post
 title: Welcome to my world!
 published: true
 ---
-![]({{site.baseurl}}/https://avatars.githubusercontent.com/u/115536357?v=4)
+![AshCog.jpeg]({{site.baseurl}}/_posts/AshCog.jpeg)
+
 
 ## ASHRAY'S WEBPAGE!
 
