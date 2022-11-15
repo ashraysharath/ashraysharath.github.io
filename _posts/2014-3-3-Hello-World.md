@@ -3,6 +3,8 @@ layout: post
 title: Welcome to my world!
 published: true
 ---
+![]({{site.baseurl}}/https://avatars.githubusercontent.com/u/115536357?v=4)
+
 ## ASHRAY'S WEBPAGE!
 
 ### INTRODUCTION:
